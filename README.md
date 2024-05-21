@@ -4,7 +4,7 @@
 
 ## Description
 
-This project is a color switcher application that allows users to switch colors dynamically.
+Simple Addition Guessing Dynamic Webpage 
 
 ## Features
 
